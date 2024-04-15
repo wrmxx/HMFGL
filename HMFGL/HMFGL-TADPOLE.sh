@@ -1,0 +1,1 @@
+python main.py --GC_mode weighted-cosine --MF_mode concat --MP_mode GCN --datname TADPOLE --dropout 0 --kNum 20 --lr 0.0086 --mode simple-2 --n_head 2 --n_hidden 18 --nlayer 2 --reg 0.083
