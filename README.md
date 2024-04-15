@@ -1,4 +1,4 @@
-# Hybrid Multimodal Fusion for Graph Learning in Disease Prediction(HMFGL)
+# HMFGL
 
 This is a PyTorch version of HMFGL model as proposed in our paper.
 
